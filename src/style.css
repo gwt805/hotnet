@@ -4,6 +4,7 @@ body {
   margin: 0;
   padding: 0;
   min-width: 500px;
+  cursor: url("./assets/mouse.png"), default !important;
 }
 /* 滚动条 */
 ::-webkit-scrollbar {
